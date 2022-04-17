@@ -1,34 +1,33 @@
-Category Three: Databases
-Animal shelter database
-The enhancement plan is to make a mongo database of animal shelters and a Python script to perform the CRUD operations on the database. We will also include a dash script that will take the database query results and display them in a graphical interface. A summary of the enhancements:
-•The database has been created in MondoDB environment.
-•Create users and roles for the database.
-•Create indexes in the database to make searching easier.
-•A python script to access the database and perform CRUD operations has been created with all four methods in the database connection class.
-•A python script using dash-plotly is to be created to help visualize the data being fetched from the database.
-•Data aggregation pipelines to work with filters that will help customize the data and the visualization.
-•Appealing display of the visualizations in a webpage.
-The skills illustrated here are of database design and access. Database aggregation pipelines to query the database and manipulate data to required results. I will also show how the database results can be graphically represented using the Dash programming language tools.
+<h2>Animal shelter database</h2>
+<p>The enhancement plan is to make a mongo database of animal shelters and a Python script to perform the CRUD operations on the database. We will also include a dash script that will take the database query results and display them in a graphical interface. A summary of the enhancements:<br>
+•The database has been created in MondoDB environment.<br>
+•Create users and roles for the database.<br>
+•Create indexes in the database to make searching easier.<br>
+•A python script to access the database and perform CRUD operations has been created with all four methods in the database connection class.<br>
+•A python script using dash-plotly is to be created to help visualize the data being fetched from the database.<br>
+•Data aggregation pipelines to work with filters that will help customize the data and the visualization.<br>
+•Appealing display of the visualizations in a webpage.<br>
+The skills illustrated here are of database design and access. Database aggregation pipelines to query the database and manipulate data to required results. I will also show how the database results can be graphically represented using the Dash programming language tools.</p>
 
-Creating the database
-Importing and indexing a dataset
-•Import
-
-
-Verify
+<b>Creating the database</b><br>
+Importing and indexing a dataset<br>
+•Import<br>
 
 
-•Simple index
+Verify<br>
 
+
+•Simple index<br>
 
 
 
 
 
-•Compound index
+
+•Compound index<br>
 
 
-Verify
+Verify<br>
 
 
 
